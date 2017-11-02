@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47d72cf1679016d85e5a48b40bf9a947860cdd9a">
+        <dex dex="/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97d2375729a2826cbfca9f9c1a44fbd790b4b8a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_30816cf3f8ebb644a84ba6e2492f56ddd2f079a9/classes.dex" />
+    </item>
+
+</items>

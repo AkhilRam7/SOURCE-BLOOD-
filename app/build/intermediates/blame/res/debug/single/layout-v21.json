@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/akhil/.android/build-cache/ce1f5cea6ac802254175e3dc9ccd48854b966952/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/akhil/.android/build-cache/9538710099f7e8f009fb4fe1f4c1fcf2ffb25354/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/akhil/.android/build-cache/ce1f5cea6ac802254175e3dc9ccd48854b966952/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/akhil/.android/build-cache/ce1f5cea6ac802254175e3dc9ccd48854b966952/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/akhil/.android/build-cache/ce1f5cea6ac802254175e3dc9ccd48854b966952/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

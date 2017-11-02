@@ -1,0 +1,7 @@
+#Sun Oct 29 06:43:20 IST 2017
+base.0=/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97d2375729a2826cbfca9f9c1a44fbd790b4b8a7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_30816cf3f8ebb644a84ba6e2492f56ddd2f079a9/classes.dex
+base.1=/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_30816cf3f8ebb644a84ba6e2492f56ddd2f079a9
+file.0=/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97d2375729a2826cbfca9f9c1a44fbd790b4b8a7/classes.dex

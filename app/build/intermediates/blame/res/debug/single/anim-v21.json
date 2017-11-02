@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/akhil/.android/build-cache/a98dd22d110c4b8cc440bbd8bae99f86085252e8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/akhil/.android/build-cache/a98dd22d110c4b8cc440bbd8bae99f86085252e8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

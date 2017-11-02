@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/akhil/AndroidStudioProjects/Blood/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/akhil/AndroidStudioProjects/Blood/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/akhil/AndroidStudioProjects/Blood/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
